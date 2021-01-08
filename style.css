@@ -1,0 +1,159 @@
+
+section{
+ 
+    height: 500px;
+    padding-bottom: 150px;
+    
+}
+body{
+    font-family: 'Playfair Display', serif;
+}
+
+
+.orange-color{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+    padding-left: 60px;
+    
+}
+.half-width{
+     
+    float: left;
+    width: 40%;
+}
+.half-width img{
+   width: 85%;
+   padding-left: 150px;
+
+}
+p{
+    color: dimgray;
+    font-weight: 900;
+    padding-left: 50px;
+    padding-bottom: 45px;
+}
+.link-button{
+    
+    text-decoration: none;
+    
+    
+    padding: 20px 50px;
+    border-radius: 5px;
+  
+   
+    color:white;
+    font-weight: bold;
+    background-image: linear-gradient(45 deg, LightSalmon, tomato );
+    background: orange;
+    margin-left: 50px;
+
+    
+}
+h2{
+    padding-top: 100px;
+   font-size: 40px;
+    
+}
+#head-about{
+    padding-left: 50%;
+}
+#head-pera{
+    padding-left: 50%;
+    padding-right: 20%;
+}
+#download-button{
+    margin-left: 150px;
+    background: orange;
+    
+
+
+}
+#working-project{
+    padding-left: 30%;
+}
+.one-third-width{
+    width:25%;
+    box-shadow: 10px 10px 40px gray ;
+    border-radius: 10px;
+    
+    margin-left: 100px;
+    margin-top: 60px;
+    height: 75%;
+    float: left;
+    
+}
+.one-third-width img{
+    width: 25%;
+}
+
+ 
+   
+    
+
+#img1{
+    
+    width: 100%;
+    
+}
+
+#img2{
+    
+    width: 100%;
+    
+
+}
+#img3{
+    
+    width: 100%;
+    
+}
+h3{
+    padding-left: 50px;
+}
+#profile1{
+    padding-top: 70px;
+}
+.footer1{
+    margin-left: 45%;
+}
+#f2{
+    margin-left: 41%;
+}
+#work-inq{
+    font-size: 50px;
+    color: white;
+    background-color: royalblue;
+    background-image: linear-gradient(90deg, royalblue, LightSalmon);
+    margin: 50px;
+    padding:10px;
+    padding-left: 500px;
+    margin-top: 90px;
+    
+
+}
+.half-width2{
+    width: 50%;
+}
+#half-width-head{
+    margin-left: 90px;
+    
+}
+#half-width-head-p{
+    padding-left: 50px;
+}
+
+
+
+
+    
+   
+    
+    
+  
+  
+
+
+
+
